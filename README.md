@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Terminal session: Vicente Siglic, machine learning and software engineering student, fourth-year computer engineering student at UCN, teaching assistant in software engineering, web and mobile development and data science. Awards: 1st at NASA Space Apps 2026 and 1st at Hackadisc 2026. Open to internships.">
+  <img src="assets/hero-light.svg" width="100%" alt="Terminal session: Vicente Siglic Moreno, machine learning and software engineering student, fourth-year computer engineering student at UCN, teaching assistant in software engineering, web and mobile development and data science. Awards: 1st at NASA Space Apps 2026 and 1st at Hackadisc 2026. Open to internships.">
 </picture>
 
 # Vicente&nbsp;Siglic
