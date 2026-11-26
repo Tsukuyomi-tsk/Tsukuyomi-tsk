@@ -29,7 +29,7 @@ I care about honest evaluation. I test on years or months the model has never se
 
 ## Hackathons
 
-I won both of these together with [Sebastián Cortez](https://github.com/sxbast1anCZ). My part was the data and the machine learning.
+I won both of these together with [Sebastián Cortez](https://github.com/sxbast1anCZ) and [David Alvarez](https://github.com/Deiviidsito). My part was the data and the machine learning.
 
 ### 🥇 NASA Space Apps Challenge 2026 · Antofagasta winner, Global nominee · Fireguard
 
