@@ -41,7 +41,7 @@ I won both of these together with [Sebastián Cortez](https://github.com/sxbast1
 
 Challenge: harmonizing MODIS and VIIRS hotspots. My main role was the data exploration behind the harmonization, and designing, building and evaluating the next-day model. The model catches 78.0% (Argentina) and 79.1% (Chile) of the cell-days with a hotspot on 2023–2025, years it never saw in training. At the same number of alerts, that is 79% against 64% and 68% against 49% for the rule "fire today in the cell or a neighbour". Every alert comes with a reason from SHAP values, and the write-up says plainly that most alerts end with no hotspot. [Repo](https://github.com/sxbast1anCZ/NASA-Space-Apps-2026)
 
-`Python` `pandas` `PostgreSQL` `LightGBM` `SHAP` `NASA FIRMS`
+`Python` `pandas` `DuckDB` `LightGBM` `SHAP` `NASA FIRMS`
 
 ### 🥇 Hackadisc 2026 · Insecap
 
