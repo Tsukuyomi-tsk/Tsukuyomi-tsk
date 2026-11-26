@@ -6,7 +6,7 @@
   <img src="assets/hero-light.svg" width="100%" alt="Terminal session: Vicente Siglic Moreno, machine learning and software engineering student, fourth-year computer engineering student at UCN, teaching assistant in software engineering, web and mobile development and data science. Awards: 1st at NASA Space Apps 2026 and 1st at Hackadisc 2026. Open to internships.">
 </picture>
 
-# Vicente&nbsp;Siglic
+# Vicente&nbsp;Siglic&nbsp;Moreno
 
 **Machine&nbsp;Learning&nbsp;&amp;&nbsp;Software&nbsp;Engineering&nbsp;Student** · Data&nbsp;Science&nbsp;&amp;&nbsp;AI<br>
 Models that predict, and the software that puts them to work
