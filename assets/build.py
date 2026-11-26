@@ -133,7 +133,7 @@ def hero(c):
                                          f'<tspan fill="{c["text"]}"> · {name}</tspan>')
     lines = [
         ("cmd", "whoami"),
-        ("out", f'<tspan fill="{c["text"]}">ML &amp; Software Engineer</tspan><tspan fill="{c["muted"]}"> · 4th year @ </tspan>'
+        ("out", f'<tspan fill="{c["text"]}">ML &amp; Software Engineering student</tspan><tspan fill="{c["muted"]}"> · 4th year @ </tspan>'
                 f'<tspan fill="{c["accent"]}">UCN</tspan>'),
         ("cmd", "cat focus.txt"),
         ("out", f'<tspan fill="{c["text"]}">data science + machine learning</tspan><tspan fill="{c["accent"]}"> → </tspan>'
@@ -178,7 +178,7 @@ def hero(c):
                    f'<text x="616" y="{yy + 24}" font-size="13" font-weight="600" fill="{c["text"]}">{name}</text>'
                    f'<text x="616" y="{yy + 43}" font-size="11" fill="{c["muted"]}">{sub}</text>'
                    f'<text x="846" y="{yy + 24}" font-size="13" text-anchor="end" fill="{c["green"]}">✓</text></g>')
-    return svg(880, H, "Terminal session: Vicente Siglic, machine learning and software engineer, fourth-year computer "
+    return svg(880, H, "Terminal session: Vicente Siglic, machine learning and software engineering student, fourth-year computer "
                "engineering student at UCN, teaching assistant in software engineering, web and mobile development and "
                "data science. Awards: 1st at NASA Space Apps 2026 and 1st at Hackadisc 2026. Open to internships. "
                "Beside it, a list of shipped work: the Fireguard model, Insecap forecasts, the GameVault API, a book "

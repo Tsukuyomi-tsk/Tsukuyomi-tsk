@@ -3,12 +3,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Terminal session: Vicente Siglic, machine learning and software engineer, fourth-year computer engineering student at UCN, teaching assistant in software engineering, web and mobile development and data science. Awards: 1st at NASA Space Apps 2026 and 1st at Hackadisc 2026. Open to internships.">
+  <img src="assets/hero-light.svg" width="100%" alt="Terminal session: Vicente Siglic, machine learning and software engineering student, fourth-year computer engineering student at UCN, teaching assistant in software engineering, web and mobile development and data science. Awards: 1st at NASA Space Apps 2026 and 1st at Hackadisc 2026. Open to internships.">
 </picture>
 
 # Vicente&nbsp;Siglic
 
-**Machine&nbsp;Learning&nbsp;&amp;&nbsp;Software&nbsp;Engineer** · Data&nbsp;Science&nbsp;&amp;&nbsp;AI<br>
+**Machine&nbsp;Learning&nbsp;&amp;&nbsp;Software&nbsp;Engineering&nbsp;Student** · Data&nbsp;Science&nbsp;&amp;&nbsp;AI<br>
 Models that predict, and the software that puts them to work
 
 [LinkedIn](https://www.linkedin.com/in/vicente-siglic-68052725a/) &nbsp;·&nbsp; Antofagasta, Chile &nbsp;·&nbsp; **Open to internships**
@@ -23,9 +23,9 @@ I care about honest evaluation. I test on years or months the model has never se
 
 ## Teaching
 
-- **Teaching assistant, Web and Mobile Development** (current).
-- **Teaching assistant, Software Engineering** (one year).
-- **Teaching assistant, Data Science**. Material from it: [Pandas-y-Numpy](https://github.com/Tsukuyomi-tsk/Pandas-y-Numpy).
+- **Teaching assistant, Web and Mobile Development** (current). I teach backend development with FastAPI to about 25 students on average.
+- **Teaching assistant, Software Engineering** (one year). Good practices, classic and agile methodologies, requirements, diagrams and architectures.
+- **Teaching assistant, Data Science.** Web scraping, data handling with pandas and NumPy, and many classic machine learning models, from linear regression to clustering: K-means, SVM, decision trees, naive Bayes and more. Material from it: [Pandas-y-Numpy](https://github.com/Tsukuyomi-tsk/Pandas-y-Numpy).
 
 ## Hackathons
 
@@ -41,7 +41,7 @@ I won both of these together with [Sebastián Cortez](https://github.com/sxbast1
 
 Challenge: harmonizing MODIS and VIIRS hotspots. My main role was the data exploration behind the harmonization, and designing, building and evaluating the next-day model. The model catches 78.0% (Argentina) and 79.1% (Chile) of the cell-days with a hotspot on 2023–2025, years it never saw in training. At the same number of alerts, that is 79% against 64% and 68% against 49% for the rule "fire today in the cell or a neighbour". Every alert comes with a reason from SHAP values, and the write-up says plainly that most alerts end with no hotspot. [Repo](https://github.com/sxbast1anCZ/NASA-Space-Apps-2026)
 
-`Python` `pandas` `DuckDB` `LightGBM` `SHAP` `NASA FIRMS`
+`Python` `pandas` `PostgreSQL` `LightGBM` `SHAP` `NASA FIRMS`
 
 ### 🥇 Hackadisc 2026 · Insecap
 
@@ -77,4 +77,4 @@ The REST API of a digital game store, built for the web and mobile development c
 
 ## Stack
 
-`Python` `pandas` `NumPy` `scikit-learn` `LightGBM` `SHAP` `Jupyter` `FastAPI` `SQLModel` `SQLite` `DuckDB` `Alembic` `Git`
+`Python` `pandas` `NumPy` `scikit-learn` `LightGBM` `SHAP` `Jupyter` `FastAPI` `SQLModel` `SQLite` `PostgreSQL` `Alembic` `Git`
